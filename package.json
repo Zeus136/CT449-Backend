@@ -15,6 +15,10 @@
   "devDependencies": {
     "eslint": "^9.10.0",
     "eslint-config-prettier": "^9.1.0",
+    "nodemon": "^3.1.6",
     "prettier": "^3.3.3"
+  },
+  "script": {
+    "start": "nodemonic server.js"
   }
 }
